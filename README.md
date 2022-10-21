@@ -1,7 +1,7 @@
 # contact-package
 
-Send message to email and save to database from `Contact us` page \n
-For install :
-`composer require diyorbekboltayev/contact`
-and \n
+Send message to email and save to database from `Contact us` page <br>
+For install :<br>
+`composer require diyorbekboltayev/contact`<br>
+and <br>
 `php artisan vendor publish`
